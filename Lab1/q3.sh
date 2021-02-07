@@ -1,7 +1,7 @@
 read -p "Enter the URL :- " url
 echo "Webpage :- "$url
 declare -A matrix
-run=9
+run=2
 time_to_sleep=0
 for i in $(seq 0 $run);
 do
@@ -20,7 +20,7 @@ do
 done 
 rm *.html # to delete if not required
 echo "Analysing ..."
-echo "Speed" "StartTime" "EndTime"
+echo "Speed    StartTime     EndTime       Difference"
 for i in $(seq 0 $run);
 do
     # echo ${array[$i][0]} ${array[$i][1]} ${array[$i][1]}
