@@ -1,0 +1,15 @@
+--2021-02-07 20:05:28--  https://stackoverflow.com/questions/12628327/how-to-show-and-update-echo-on-same-line
+Resolving stackoverflow.com (stackoverflow.com)... 151.101.129.69, 151.101.193.69, 151.101.1.69, ...
+Connecting to stackoverflow.com (stackoverflow.com)|151.101.129.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘how-to-show-and-update-echo-on-same-line.1’
+
+     0K .......... .......... .......... .......... ..........  117K
+    50K .......... .......... .......... .......... ..........  172K
+   100K .......... .......... .......... .......... .......... 29.3M
+   150K .......... .......... .......... .......... ..........  245K
+   200K .........                                              16.6M=0.9s
+
+2021-02-07 20:05:30 (227 KB/s) - ‘how-to-show-and-update-echo-on-same-line.1’ saved [214523]
+
