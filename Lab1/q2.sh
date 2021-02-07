@@ -17,6 +17,9 @@ then
 elif [ ${roll:0:1}  == "E" ] || [ ${roll:0:1}  == "e" ];
 then 
     echo "This is Electrical Branch"
+else
+    echo "Wrong Roll Call "
+    exit
 fi
 pass=$(echo 20${roll:3:2})
 if [ ${roll:5:1} == "I" ] || [ ${roll:5:1} == "i" ];
@@ -27,4 +30,21 @@ elif [ ${roll:5:1} == "B" ] || [ ${roll:5:1} == "B" ] ;
 then
     echo "Its a Four year B.Tech Course"
     echo "Passing Year for this Batch is $(($pass + 4))"
+else
+    echo "Wrong Roll Call "
+    exit
 fi
+lucky=$(($RANDOM%10))
+echo Your lucky Number for the day is $lucky
+delay=0.1
+for i in {0..10..1}
+do
+    printf " / Your Lucky number is $lucky  / \r "
+    sleep $delay
+    printf " - Your Lucky number is $lucky  - \r "
+    sleep $delay
+    printf " \ Your Lucky number is $lucky  \ \r "
+    sleep $delay
+    printf " | Your Lucky number is $lucky  | \r "
+    sleep $delay
+done
