@@ -1,3 +1,4 @@
-read -p "Enter the URL :- " a
-echo $a
-time wget $a
+read -p "Enter the URL :- " url
+echo $url
+# for i in {0, 10}
+time wget $url
