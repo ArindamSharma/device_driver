@@ -1,3 +1,3 @@
 net.c
-Lab1/test.*
-Lab1/*.htm*
+test*
+*.htm*

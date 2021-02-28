@@ -2,7 +2,30 @@
 this repository is for academic use only not for public sharing  
 
 ## Labs Excersice
->[Lab 0](./Lab0/readme.md)
+>[Excersice 1](./1/readme.md)
 
->[Lab 1](./Lab1/readme.md)
+>[Excersice 2](./2/readme.md)
 
+>[Excersice 3](./3/readme.md)
+
+>[Excersice 4](./4/readme.md)
+
+>[Excersice 5](./5/readme.md)
+
+>[Excersice 6](./6/readme.md)
+
+>[Excersice 7](./7/readme.md)
+
+>[Excersice 8](./8/readme.md)
+
+>[Excersice 9](./9/readme.md)
+
+>[Excersice 10](./10/readme.md)
+
+>[Excersice 11](./11/readme.md)
+
+## Lab Instructions
+[Give Instruction And Questions](./questions.md)
+
+## References :-
+Excersice 2 references : [Link 1](https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/), [Link 2](https://linuxhint.com/30_bash_script_examples/), [Link 3](https://alvinalexander.com/linux-unix/shell-script-download-url-website-speed-performance/)
