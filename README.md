@@ -25,7 +25,7 @@ this repository is for academic use only not for public sharing
 >[Excersice 11](./11/readme.md)
 
 ## Lab Instructions
-[Give Instruction And Questions](./questions.md)
+[Give Instruction And Questions](./instruction.md)
 
 ## References :-
 Excersice 2 references : [Link 1](https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/), [Link 2](https://linuxhint.com/30_bash_script_examples/), [Link 3](https://alvinalexander.com/linux-unix/shell-script-download-url-website-speed-performance/)
