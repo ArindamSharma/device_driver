@@ -1,0 +1,1 @@
+cmd_/home/arindam/Desktop/char/Module.symvers := sed 's/ko$$/o/' /home/arindam/Desktop/char/modules.order | scripts/mod/modpost -m -a   -o /home/arindam/Desktop/char/Module.symvers -e -i Module.symvers   -T -

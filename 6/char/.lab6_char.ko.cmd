@@ -1,0 +1,1 @@
+cmd_/home/arindam/Desktop/char/lab6_char.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 --build-id=sha1  -T ./scripts/module-common.lds -o /home/arindam/Desktop/char/lab6_char.ko /home/arindam/Desktop/char/lab6_char.o /home/arindam/Desktop/char/lab6_char.mod.o;  true
