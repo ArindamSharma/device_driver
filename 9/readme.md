@@ -2,7 +2,7 @@
 
 ## Question 7
 #
-Write a C program and try to access Kernel memory, this will result into a system error message, display the error.
+Write a C program, keyboard logger, to capture keyboard strokes, through which we can capture typed passwords.
 >[Solution](./q3.sh)
 
 >![Output Screenshot](./output1.jpg)

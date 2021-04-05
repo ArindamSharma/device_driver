@@ -16,7 +16,7 @@ cat /proc/devices # to check if its listed in the charactor driver or not
 # major :- Major number of driver. In our case we assumed device major number as 90.
 # minor:- minor number is defined as minor number of device. we are assuming this value to 1.
 
-mknod /dev/custom_device 11 1 #making node for my devce driver
+mknod /dev/custom_device c 11 1 #making node for my devce driver
 
 chmod a+r+w /dev/custom_device #giving permisions
 
