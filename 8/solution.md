@@ -1,5 +1,5 @@
 ## SNULL
-**Stands for `S`imple `N`etwork `U`tility for `L`oading `L`ocalities**
+**Stands for ``S``imple ``N``etwork ``U``tility for ``L``oading ``L``ocalities**
 
 a simple description could be the interface that uses Ethernet hardware protocol and transmits IP packets.
 
