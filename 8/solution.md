@@ -28,4 +28,4 @@ let local ip L1 and L2 for respective netowrk are present which offcourse  must 
 
 Note that we won’t be able to reach any other “host” belonging to the two networks, because the packets are discarded by your computer after the address has been modified and the packet has been received. 
 
-[Reference]("https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch17.html")
+[Reference](https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch17.html)
