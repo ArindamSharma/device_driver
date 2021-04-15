@@ -22,9 +22,9 @@ this repository is for academic use only not for public sharing
 
 >[Excersice 9](./9/readme.md)
 
->[Excersice 10](./10/readme.md)
+>[Lab Exam](./Lab&#32;Exam/readme.md)
 
->[Excersice 11](./11/readme.md)
+>[Book](./Book/readme.md)
 
 ## Lab Instructions
 [Give Instruction And Questions](./instruction.md)
