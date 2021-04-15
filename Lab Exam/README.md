@@ -24,6 +24,6 @@ Partial marks will be given based on your percentage of completion of work and o
 
 ### 4. Write any device driver. Print th major number and minor number when it opens the device.
 
-5. Write a pair of modules one of which uses a function defined in the other.
+### 5. Write a pair of modules one of which uses a function defined in the other.
 
 Selected Question [Question 2 a](./a) , [Question 2 b](./b)
